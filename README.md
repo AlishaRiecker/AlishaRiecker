@@ -2,7 +2,7 @@
 
 - 👩‍🎓 I’m currently studying Mathematics in Data Science at TUM
 - 🔭 Focus: Natural Language Processing
-- 👀 Interests: Aviation, Education, Drawing
+- 👀 Other Interests: Aviation, Education, Drawing
  
 <!--
 **AlishaRiecker/AlishaRiecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
